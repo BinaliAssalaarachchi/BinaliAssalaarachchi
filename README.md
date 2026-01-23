@@ -11,7 +11,7 @@ and I’m currently strengthening my skills in Python, ML, and full-stack develo
 
 📌 Recently completed:
 - Student Performance Prediction System (ML + Flask + MySQL)
-  - Heart Disease Prediction (ML pipeline with API and database integration)
+- Heart Disease Prediction (ML pipeline with API and database integration)
 
 🛠 Tech Stack
 - Languages: Python, Java, SQL
